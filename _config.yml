@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 https://hungryoon.github.io/bombook-2020/
 paginate:            1
-baseurl:             ""
+baseurl:             "https://hungryoon.github.io/bombook-2020/"
 
 # Assets
 #
